@@ -1,0 +1,576 @@
+MZ                    @                                          	 ! L !This program cannot be run in DOS mode.
+$       PE  d   i g         & 
+(     :                                     p     0  `                                        G                   P                 `                            @  (                       8                          .text                           `  `.data   p    0      &              @   .rdata      @      (              @  @.pdata      P      .              @  @.xdata      `      0              @  @.bss         p                          .edata  G           2              @  @.idata             4              @   .CRT    X           :              @   .tls               <              @   .reloc  `           >              @  B/4      0           @              @  B/19      6       8   B              @  B/31     <         z              @  B/45         0                    @  B/57     @    @                    @  B/70     S    P                    @  B/81     3   `                    @  B                                                                                                                                                                                                                                                                                                                                                                                                                                        UH  H   H `  H     H   ] UH  H     H M UL E  } u%  _    ~  _      _   
+      +   } o  H E      E 0    E eH  H E H E H @H E  E      !H E H;E u	 E     E    H Z     H  1  H E H E H E H E     H M H E H U  H 
+H E H }  u H Z1      u        3H @1      u&H 31       H f1  H  H L1  H      H 
+1      u&H 1  H  H 1  H     H  0        }  uH  0  H E H E     H U H E H H e0  H  H  t H V0  L H U H EI к   H  A ы7^     .^       }      H E          H      H @0  H E H E    H E     H M H E H U  H 
+H E H }  u H 0      t         :H  ]  H      H  /        H  /  H E H E     H U H E H     H Ġ   ] UH  H   H M UL E H t/        H M  UH EI  H      H   ] UH  H  0H M UL E  E    H A/   U  } u  ]    u E      A      }t }uiH M  UH EI  H        E  }     H M  UH EI  H       E  }  u' }     H U H EI к    H            }u    H M  UH EI  H       E  }uN }  uHH U H EI к    H     H U H EI к    H   f  H U H EI к    H       } t }uBH M  UH EI  H   ,   E H M  UH EI  H         u E            H  -         E H  0] UH  H   H MH EH  H  [  H     H   ]ÐH 
+	        @ Ð              UH  H         H 9+  H ¹    H  }    H E H }  u
+     f  H U H E H  H  }   ЋE A           H  |    H E H }  u
+     $  H U H E I к   H  H g|   Ѕ     tH E H  H n|   и        E     H E H U H T$ A     A         H  H 
+|   ЋEԉ H     H E D E H E H M H U H T$ E  I Ⱥ   H  H  {   Ѕ      9  H E     H E     H E     H E H U H T$8H D$0    H U H T$(H D$     A     A        H  H \{   Ѕ          H E A 0        H       E     E     E      E      E    H E H  H E H U H M H E I  I  H ¹   H  z   Ѕ     tNH U H E H D$0    H T$(H D$     A     A        H  H  z   Ѕ H E H  H  z    H E H  H  z    H E H  H  z    H E H  H  z    H E H           H      ]Ð    % z     % z     % z     %Rz     %B{     %2{     %*z     %z     %
+z     % y     % y          UH  H    H ?  H    H 3  H  H (  H !  H  H  uӐ H   ] UH  H  0H  )  H   E  }  u% E       E  E  PH  )    H  H  u E  E  H  )   U H   Ѓm  }  u H X   H        H  0] UH  H     W    u  W      g    H   ]ÐUH  H  0H M UL E H )      t
+H  (        }t# }uH M  UH EI  H   a
+       FH J   H E H E  "H E H E H E H  H  t	H E H    H E H    H9E uѸ   H  0] UH  H MH } u            ] UH  H   H M UL E  }t
+ } t      H M  UH EI  H   
+      H   ]Ð        USH  8H l$0H M H U(L E0L M8H E(H E        I  A        H n&  H   f  H ]        H  H E I  H   n   1   UH  H  `H M E         H 
+1V   E Hc H  H  H H  H H @H9ErVH 
+	V   E Hc H  H  H H  H H HL  U   E Hc H  H  H H  L H @  @  H H9E B   E   U  9E  o   H EH   V  H E H }  uH EH  H  %  H      H 
+sU   E Hc H  H  H H  H H E H B H 
+LU   E Hc H  H  H H  H        1
+  H  H E @A  L U   E Hc H  H  H H  L J 	H PH 
+ T   E Hc H  H  H H  H H @H U A 0   H  H yv    H  u=H 
+ T   E Hc H  H  H H  H H PH E @I Љ H  $  H       E  @      E        E =          E        E  u	 E       E @   H 
+,T   E Hc H  H  H H  H H E H BH 
+T   E Hc H  H  H H  H H E H BH 
+ S   E Hc H  H  H H  H I  H U H E  M M  A  H  H Yu   Ѕ uH u   Љ H  #  H         S      S    H  `] UH  H  0 E         H 
+VS   E Hc H  H  H H  Hȋ        H 
+.S   E Hc H  H  H H  H D H 
+
+S   E Hc H  H  H H  H H HL  R   E Hc H  H  H H  L H @H U I  E  H  H  H it       E   R  9E  D     H  0] UH  H   H MH UL E H }  t%H EH   "   H M H UH EI  H   #    H   ] UH  H ĀH MH UL E H EH+EH E H EH E H }   P  H } 
+~%H E     uH E  @  uH E  @  uH E H E     u
+H E  @  tYH E H E  @H E @  H E H H E H E H E  ЉE H E H U A    H       H E H E H;Er    H E  @  tH E  @  H  !  H      H E H  H E  q  H E @  H E H H E H E    H E H H E H E H  H E H E @    @       @        tw          t
+  t8    H E     H E H E %    H       H E H
+    H E     H E     H E H E %    H  ttH E H
+    H E  dH E    H E H E %    H  tMH E H         H	 H E  6H E H  H E  *H E     H E @    H     H   e        H M H E    H E H H  H) H E H U H E H H E H E @%     Eԃ} ?wp EԺ     H  H  H  H EȋEԃ H        H  H  H E H E H9E |
+H E H9E ~+H U L E H M E H T$ M  I ȉ H m   H      H E @    @tc  @wu   tA   wk  t   t _H E H U A    H       GH E H U A    H   |    /H E H U A    H   d    H E H U A    H   L    H E H E H;E       H  ] UH  H  0  N           N      N      E  E Hc H  H  H H  H  H  H     H) H D$ H  H  H  H [N   YN      L    H    H  H    H             H  ]Ð   UH  H  0 MH U CN    u       {          
+  H E H }  u       ZH E  U H E H UH PH  M  H  H )o    H  M  H E H PH E H  M  H  M  H  H o   и    H  0] UH  H  0 M  M    u
+         H iM  H  H  n    H E     H ~M  H E  UH E  9Eu6H }  uH E H @H WM   H E H PH E H PH E H   	   H E H E H E H @H E H }  u H  L  H  H Sn   и    H  0] UH  H  0  L         H  L  H  H  n    H  L  H E  FH E     H !n    H E H  m   Ѕ uH }  tH E H PH E H    H E H @H E H }  u H DL  H  H  m      H  0] UH  H  0H M UL E  }      }      }      }      } t3 }      L    uH  K  H  H 9m      K      }       K    ulH  K  H E   H E H @H E H E H   6  H E H E H }  u H  K        K      H [K  H  H  l           s         H  0]Ð  UH  H   H MH EH E H E   f=MZt       NH E  @<Hc H E H H E H E  =PE  t       %H E H  H E H E   f=
+t           H   ] UH  H   H MH UH E @<Hc H EH H E  E     H E  @  H E H H  H E  6H E  @  H9ErH E  PH E  @Љ H9EsH E   E H E (H E  @  9E r      H   ] UH  H  @H MH EH      H  v
+         H |  H E H E H        u       vH E @<Hc H E H H E  E     H E  @  H E H H  H E  )H E H UA    H       uH E   E H E (H E  @  9E rǸ    H  @] UH  H  0H MH    H E H E H        u       H EH+E H E H U H E H   W   H  0] UH  H  0H    H E H E H        u        H E  @<Hc H E H H E H E  @  H  0] UH  H  @H MH 2  H E H E H   b     u       xH E @<Hc H E H H E  E     H E  @  H E H H  H E  +H E  @$%      tH } uH E  #H m E H E (H E  @  9E rŸ    H  @] UH  H  0H    H E H E H        u       H E H  0] UH  H  @H MH R  H E H E H        u       =H EH+E H E H U H E H       H E H }  u       H E @$      H  @] UH  H  P MH    H E H E H        u
+         H E @<Hc H E H H E H E苀     E }  u       | U H E H   B   H E H }  u       [ U H E H H E H }  u       ?H E  @  u
+H E  @  t# } H E  @  H E H   mH E  ǐ     H  P]Ð  UH    ]Ð      QPH=   H L$rH     H 	 H-   H=   w H) H 	 XYÐ             UH  H M UL E     ]Ð         UH  H M UL E     ]Ð         UH  H    M p  H   UH  H H H  H H   ]Ð   UH  H MH } u       0H EH @    H EH PH EH PH EH PH EH      ] UH  H  0H MH UH } u
+      J          H EH  H  u^          
+  H  H EH H EH  H  u                  H EH H EH PH EH  H     H EH PH EH PH EH @H9      H EH PH EH  H) H  H  H E H E H  H  H EH  H     H E H }  u     F        jH EH U H H E H      H E H H EH PH E H  H  H E H H EH PH EH @H HH UH JH UH               H  0] UH  H  0H M        H EH  H E H EH @H E H EH              H }  u      5H E H  H  t	H E H    H m H E H;E s H E H   6        H  0]Ð           %"e     %"e     %"e     %"e     %"e     %"e     %"e     %"e     %"e     %"e     %"e     %"e     %"e     %"e     %"e     %"e     % d     % d     %rd     %Jd     %:d     %*d     %d     %
+d                            -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    .                                            *             *    +    y,                                                                                                                                                                                                                                                                                                                                                                                                                            python                                  Pp    0                                  Mingw-w64 runtime failure:
+     Address %p has no image-section   VirtualQuery failed for %d bytes at address %p          VirtualProtect failed with code 0x%x    Unknown pseudo relocation protocol version %d.
+         Unknown pseudo relocation bit size %d.
+       %d bit pseudo relocation at %p out of range, targeting %p, yielding the value %p.
+      00             -             E             E            H@                          `p             0            Hp            @p                                                                  GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0               GCC: (GNU) 13.1.0                                                                                                                                                                                                                                                     `       `        `     g  $`  g     0`        <`        @`     \  D`        P`     w  \`  w     h`     C  t`  C  `   `  `      `         `         `         `        `     !   `   !  L"   `  P"   "   `   "   #   `   #  Q$   `  Q$  M%   a  P%   %  a   %  e&  a  e&  +'  $a  +'  {'  0a  {'   '  <a   '  w(  Ha  w(   (  Ta   (  )  `a  )   )  la   *  	*  xa  P*  f*   a  p*   *   a   *   *   a   *  +   a  +  y,   a  y,  -   a   -   -   a                      2P  
+
+ P2P  RP  2P        
+
+ P2P  RP  2P  RP  P2P  
+5
+b0P P  RP  2P   P  RP  RP  RP  RP  RP  2P  2P  rP  RP  RP  rP  RP  rP   P  PPP2P  PRP  RP                                                                          i g    2            (   ,   0      B     libuntitled.dll main                                                                                                                                                                                                                                                                                                                                                                                                                                                          h                              4   Б                  8                                               ؒ                            (               :       H       `       x                               ȓ      ֓      ޓ                                           *       6       >       F       P       Z       d       l       v                                                                             ؒ                            (               :       H       `       x                               ȓ      ֓      ޓ                                           *       6       >       F       P       Z       d       l       v                                                                             LGetSecurityInfo YGetTokenInformation  OpenProcessToken   SetEntriesInAclA   SetSecurityInfo   CloseHandle DeleteCriticalSection =EnterCriticalSection  tGetLastError  zInitializeCriticalSection  LeaveCriticalSection   LocalFree +OpenProcess Sleep  TlsGetValue  VirtualProtect   VirtualQuery  b __iob_func    _amsg_exit  N_initterm  _lock   free    memcpy    memset   _unlock  abort  calloc  
+fwrite  ;malloc  Lrealloc hstrlen  kstrncmp  vfprintf  FindWindowA  GetWindowThreadProcessId                        ADVAPI32.dll                                        KERNEL32.dll    (   (   (   (   (   (   (   (   (   (   (   (   (   (   (   (   msvcrt.dll  <   <   USER32.dll                                                                                                                                                `                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               0      @ P X `    @  0     ( 0 8 H   С       0 @ P ` p               0 8                                                                                                                                                                                                                                                                                                                                                                                                                                   ,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          6       )GNU C++20 13.1.0 -mtune=generic -march=nocona -g -std=gnu++20 !    2                   *__builtin_va_list     	char     size_t #,    	 long long unsigned int 	long long int wint_t j    	 short unsigned int wctype_t k    	int 	long int       	 wchar_t   	 unsigned int 	 long unsigned int lconv  -
+   decimal_point .
+   thousands_sep /
+  grouping 0
+  int_curr_symbol 1
+  currency_symbol 2
+   mon_decimal_point 3
+  (mon_thousands_sep 4
+  0mon_grouping 5
+  8positive_sign 6
+  @negative_sign 7
+  Hint_frac_digits 8
+    Pfrac_digits 9
+    Qp_cs_precedes :
+    Rp_sep_by_space ;
+    Sn_cs_precedes <
+    Tn_sep_by_space =
+    Up_sign_posn >
+    Vn_sign_posn ?
+    W_W_decimal_point A  X_W_thousands_sep B  `_W_int_curr_symbol C  h_W_currency_symbol D  p_W_mon_decimal_point E  x_W_mon_thousands_sep F   _W_positive_sign G   _W_negative_sign H    O  	unsigned char _iobuf 0*
+   _ptr +
+   _cnt ,	    _base -
+  _flag .	    _file /	    _charbuf 0	     _bufsiz 1	    $_tmpfname 2
+  ( FILE 4   	short int tm $g
+K  
+tm_sec h	     
+tm_min i	    
+tm_hour j	    
+tm_mday k	    
+tm_mon l	    
+tm_year m	    
+tm_wday n	    
+tm_yday o	    
+tm_isdst p	         
+mbstate_t      P   std 2   @
+P   
+     
+    
+    
+    
+
+   
+)   
+M   
+k   
+    
+    
+    
+    
+    
+1   
+Q   
+    
+    
+    
+    
+    
+   
+6   
+]   
+    
+    
+    
+    
+
+   
++   
+P   
+o   
+    
+    
+    
+    
+   
+7   
+\   
+    
+    
+    
+    
+$   
+L   
+k   
+    
+    
+    
+    
+   
+<   
+b   
+    
+    
+    
+    
+    
+   
+<  
+&  U  
+z  $  ]  !   $
+  (&  )U  *z  __swappable_details  
+
+__swappable_with_details 
+
+__exception_ptr =
+   +
+   a
+I  _M_exception_object c
+b   ,
+   e_ZNSt15__exception_ptr13exception_ptrC4EPv a  l  d  b   !_M_addref g_ZNSt15__exception_ptr13exception_ptr9_M_addrefEv       d   !_M_release h_ZNSt15__exception_ptr13exception_ptr10_M_releaseEv 	   	  d   -_M_get j
+_ZNKSt15__exception_ptr13exception_ptr6_M_getEv b  N	  T	  i   
+   r_ZNSt15__exception_ptr13exception_ptrC4Ev  	   	  d   
+   t_ZNSt15__exception_ptr13exception_ptrC4ERKS0_  	   	  d  n   
+   w_ZNSt15__exception_ptr13exception_ptrC4EDn 
+  
+  d  
+   
+   {_ZNSt15__exception_ptr13exception_ptrC4EOS0_ X
+  c
+  d      "    _ZNSt15__exception_ptr13exception_ptraSERKS0_     
+   
+  d  n   "    _ZNSt15__exception_ptr13exception_ptraSEOS0_     
+   
+  d      #~exception_ptr  _ZNSt15__exception_ptr13exception_ptrD4Ev ;
+  F
+  d       #swap  _ZNSt15__exception_ptr13exception_ptr4swapERS0_  
+   
+  d      .operator bool  _ZNKSt15__exception_ptr13exception_ptrcvbEv    
+   
+  i   /__cxa_exception_type   _ZNKSt15__exception_ptr13exception_ptr20__cxa_exception_typeEv    B  i        U   0swap  _ZNSt15__exception_ptr4swapERNS_13exception_ptrES1_         B    1rethrow_exception Q_ZSt17rethrow_exceptionNSt15__exception_ptr13exception_ptrE 
+       
+nullptr_t  8s  2type_info 
+   V  ranges 	 
+ 
+  __cust_swap 	 $__cust 	 __cust_imove 
+d__cust_iswap 
+4
+__cust_access 
+ 3A   +D
+ __cmp_cat 
+/
+4A    
+ 
+  "   
+  "   
+  "   
+   __cmp_cust 
+9
+%__cmp_alg 
+ 
+5
+O  
+6
+   
+7
+   __debug 2
+numbers 0
+ 
+A   
+|   
+    
+    
+   
+   
+4   
+|   
+    
+    
+    
+    
+   
+7   
+Z   
+h   
+|   
+    
+    
+    
+    
+#           B   `       y          b
+   c
+   e
+   f
+   g
+4   h
+L   i
+f   j
+    k
+    l
+    m
+    n
+    q
+ !  r
+H!  s
+m!  t
+ !  u
+ !  v
+ !  x
+ !  y
+"  ~
+"  
+,"   
+G"   
+a"   
+ "   
+ "   
+ "   
+ "   
+ "   
+#   
+4#   
+E#   
+_#   
+~#   
+ #   
+ #    #   $   6$   U$    $  %__cxx11  UA:
+   pmr 5
+$_V2 RR
+ $  S
+    T
+    \
+ $  e
+ $  h
+ $  i
+%  abs  _ZSt3absg           abs U_ZSt3absn 3     3   abs O_ZSt3abse F    F   abs K_ZSt3absf C  .  C   abs G_ZSt3absd   M     abs =_ZSt3absx     l       abs 8_ZSt3absl         5div  _ZSt3divll |        btowc              fgetwc               fgetws   
+            fputwc     )        fputws     H  H      %  fwide      k           fwprintf Y          H  
+  fwscanf 5          H  
+ getwc            getwchar     mbrlen                       P  mbrtowc      1              mbsinit      L  L   c  mbsrtowcs      }    }            putwc              putwchar           J   >         H  
+ J   "             H  
+  swscanf       H  H  
+ ungetwc     6           vfwprintf o    ]     H  h     vfwscanf O          H  h        3         H  h                     H  h     vswscanf A       H  H  h     vwprintf v    
+  H  h     vwscanf H    +  H  h    wcrtomb      P         wcscat +  o    H   wcscmp -       H  H   wcscoll N       H  H   wcscpy .       H   wcscspn /       H  H   wcsftime {            H     K  wcslen 0    7  H   wcsncat 2  \    H       wcsncmp 3       H  H       wcsncpy 4       H       wcsrtombs                     H  wcsspn 8       H  H    wcstod      H     	double    wcstof  C  C  H     	float wcstok =  k    H   wcstol       H         wcstoul :     H         wcsxfrm L         H       wctob              wmemcmp        H  H       wmemcpy    <    H       wmemmove    b    H       wmemset                 wprintf d       H  
+  wscanf *       H  
+ wcschr ,"     H     wcspbrk 6"     H  H   wcsrchr 7"    H     wcsstr 9"  <  H  H   wmemchr  "  a  H          __gnu_cxx W&   
+&  
+U  
+z  __ops %
+ 
+    
+B   
+`   
+y   
+    
+    
+   div  _ZN9__gnu_cxx3divExx                 
+ #   
+$   
+6$   
+U$   
+ $   wcstold  F  F  H     	long double wcstoll  '    z  H         wcstoull  0       H         6  11max_align_t    &__max_align_ll  
+     &__max_align_ld  F   7max_align_t     	bool   	 __int128 unsigned 	signed char 	__int128 	char8_t 	char16_t 	char32_t 8    I  'I  9decltype(nullptr) :    '    !
+  fpos_t s%       setlocale Z             ;localeconv [!      <   =__gnu_debug .
+   >:   	__float128 _div_t <A  quot =	     rem >	     div_t ?  _ldiv_t A|  quot B
+   rem C
+   ldiv_t DO    ? 7lldiv_t    
+quot  0     
+rem  6     
+lldiv_t  =   atexit             atof          atoi            atol    4      bsearch  b  c                c   h  @    |         div  A              getenv           ldiv  |          mblen                 mbstowcs                  mbtowc      7            qsort  Z  b          c   rand      srand  |  *    strtod               strtol                 strtoul 
+:                system _           wcstombs     #    H       wctomb     B       lldiv  %   `           atoll  (    y      strtoll  (                  strtoull  1                   strtof  C            strtold  'F            clearerr i       fclose j    4       feof q    L       ferror r    f       fflush s            fgetc t            fgetpos v                   fgets x                fopen                fprintf h     !        
+ fread      H!  b              freopen     m!             fscanf ;     !        
+ fseek       !            fsetpos       !      !      ftell     !      getc      "      getchar      perror  ,"       printf s    G"     
+ remove      a"      rename       "         rewind   "       scanf 0     "     
+ setbuf   "        setvbuf       "                 sprintf      #       
+  sscanf %    4#        
+ tmpfile     tmpnam    _#     ungetc      ~#           vfprintf       #        h     vprintf       #     h     vsprintf       #       h     snprintf      $           
+  vfscanf Z    6$        h     vscanf S    U$     h     vsnprintf       $           h     vsscanf L     $        h    wctrans_t    iswctype      $           towctrans       $       $   wctrans   $  %      wctype      -%      ULONG :  WINBOOL 
+    BYTE     WORD      DWORD  :  PDWORD   %  e%  LPDWORD   %  LPVOID  b  
+PVOID  
+b  
+CHAR  '     %   %   %  
+LPSTR  Z %  
+LPCSTR  ] %  
+HANDLE   b  
+PHANDLE   &   %  	_Float16 	__bf16 
+PSECURITY_DESCRIPTOR   
+ %  
+PSID   
+ %  _SID_AND_ATTRIBUTES   &  
+Sid  K&   
+Attributes  
+e%   
+SID_AND_ATTRIBUTES   Y&  _ACL   
+ '  
+AclRevision   
+K%   
+Sbz1   
+K%  
+AclSize   
+X%  
+AceCount   
+X%  
+Sbz2   
+X%   
+ACL   
+  &  
+PACL   
+;'   '  A_TOKEN_INFORMATION_CLASS  *   { +  TokenUser TokenGroups TokenPrivileges TokenOwner TokenPrimaryGroup TokenDefaultDacl TokenSource  TokenType TokenImpersonationLevel 	TokenStatistics 
+TokenRestrictedSids 
+TokenSessionId TokenGroupsAndPrivileges 
+TokenSessionReference TokenSandBoxInert TokenAuditPolicy TokenOrigin TokenElevationType TokenLinkedToken TokenElevation TokenHasRestrictions TokenAccessInformation TokenVirtualizationAllowed TokenVirtualizationEnabled TokenIntegrityLevel TokenUIAccess TokenMandatoryPolicy TokenLogonSid TokenIsAppContainer TokenCapabilities TokenAppContainerSid TokenAppContainerNumber  TokenUserClaimAttributes !TokenDeviceClaimAttributes "TokenRestrictedUserClaimAttributes #TokenRestrictedDeviceClaimAttributes $TokenDeviceGroups %TokenRestrictedDeviceGroups &TokenSecurityAttributes 'TokenIsRestricted (TokenProcessTrustLevel )TokenPrivateNameSpace *TokenSingletonAttributes +TokenBnoIsolation ,TokenChildProcessFlags -TokenIsLessPrivilegedAppContainer .TokenIsSandboxed /TokenIsAppSilo 0MaxTokenInfoClass 1 
+TOKEN_INFORMATION_CLASS    @'  _TOKEN_USER    +  
+User    &    
+TOKEN_USER     +  
+SECURITY_INFORMATION   e%  HLOCAL   %  HWND__ !K,  unused !      HWND !X,  *,  "'   "6A  "7|  "9   "9   "9   "9  "9.  "9M  "9l  ":   ";  "<  "=4  "?   "?   "?|  "A   "C   "F   "G   "H  "J7  "KZ  "Mh  "N|  "O   "P   "Q   "S   "T#  _SE_OBJECT_TYPE *  f.  SE_UNKNOWN_OBJECT_TYPE  SE_FILE_OBJECT SE_SERVICE SE_PRINTER SE_REGISTRY_KEY SE_LMSHARE SE_KERNEL_OBJECT SE_WINDOW_OBJECT  SE_DS_OBJECT SE_DS_OBJECT_ALL 	SE_PROVIDER_DEFINED_OBJECT 
+SE_WMIGUID_OBJECT 
+SE_REGISTRY_WOW64_32KEY  SE_OBJECT_TYPE #$U-  _TRUSTEE_TYPE *  &U/  TRUSTEE_IS_UNKNOWN  TRUSTEE_IS_USER TRUSTEE_IS_GROUP TRUSTEE_IS_DOMAIN TRUSTEE_IS_ALIAS TRUSTEE_IS_WELL_KNOWN_GROUP TRUSTEE_IS_DELETED TRUSTEE_IS_INVALID  TRUSTEE_IS_COMPUTER  TRUSTEE_TYPE #0}.  _TRUSTEE_FORM *  1 /  TRUSTEE_IS_SID  TRUSTEE_IS_NAME TRUSTEE_BAD_FORM TRUSTEE_IS_OBJECTS_AND_SID TRUSTEE_IS_OBJECTS_AND_NAME  TRUSTEE_FORM #7j/  _MULTIPLE_TRUSTEE_OPERATION *  9_0  NO_MULTIPLE_TRUSTEE  TRUSTEE_IS_IMPERSONATE  MULTIPLE_TRUSTEE_OPERATION #<	0  _TRUSTEE_A  #X1  pMultipleTrustee #Y1   MultipleTrusteeOperation #Z _0  TrusteeForm #[ /  TrusteeType #\U/  ptstrName #e
+ %    0  TRUSTEE_A #g 0  _ACCESS_MODE *   1  NOT_USED_ACCESS  GRANT_ACCESS SET_ACCESS DENY_ACCESS REVOKE_ACCESS SET_AUDIT_SUCCESS SET_AUDIT_FAILURE  ACCESS_MODE # '1  _EXPLICIT_ACCESS_A 0# B2  grfAccessPermissions # 
+e%   grfAccessMode #  1  grfInheritance # 
+e%  Trustee # 1   PEXPLICIT_ACCESS_A # ]2   1  EXPLICIT_ACCESSA # - 1  EXPLICIT_ACCESS # b2   
+   
+   
+  free  2  b   LocalFree $g,   2  ,   SetSecurityInfo %je%  3   %  f.   +  K&  K&  -'  -'   SetEntriesInAclA %ae%  D3  -%  B2  -'  D3   -'  memset &5b  l3  b           GetSecurityInfo %ge%   3   %  f.   +   3   3  D3  D3   3   K&  -&  malloc b   3       GetTokenInformation ' ;%  4   %   +   %  e%  s%   CloseHandle (;%  -4   %   OpenProcessToken )#;%  Z4   %  e%  &   OpenProcess ) %   4  e%  ;%  e%   GetWindowThreadProcessId *ye%   4  K,   %   FindWindowA *eK,   4   %   %   Bmain                   6  hwnd  
+K,   hprocessId 
+e%   TprocessHandle  %   `tokenHandle  %   HtokenUser   6   XtokenSize !
+e%   D(     9      %6  pOldDACL '-'    pNewDACL '-'    pSD (-&    (S            
+6  ea -{2    ~     3        2       2   F    l3  "     2         4       4      Z4  K    -4  d    4        3        3  2    4  B    4    +                                                                                                                                                                                                                                                                                                                                                                   I   :
+;
+9
+  .?:
+;9
+I<  ( 
+  
+ :
+;
+9
+I8
+   
+!I   .:
+;9
+I<   :
+;
+9
+I  	$ 
+
+>
+  
+
+ :
+;9
+I8
+  
+ :
+;9
+I   I4  
+   H }   :
+;9
+  .?:
+;
+9
+I<  4 :!;
+9
+I  & I  .?:
+;
+9!nI<  
+
+:
+;
+9
+  9 :
+;
+9
+  .?:
+;9!<  9 :
+;9
+  >! 
+!I:!#;
+9!  
+
+:
+;9
+  .?:!;
+9! n2!<d  . ?:
+;9
+I<  .:!;
+9!I<  9:
+;
+9
+  4 :!;!09!I<!l  4 G   9:! ;9!
+  !.?:!;
+9!n<d  ".?:!;
+9! nI2!<d  #.?:!;
+9! n2!<d  $9 :
+;
+9
+   %9 :
+;9
+   &
+ :!;9
+I 
+8
+  ' 
+!I  (
+   )%
+   * 
+
+I  +
+
+:
+;
+9
+  ,.?:
+;
+9
+n<cd  -.?:
+;
+9
+nI<d  ..?:
+;
+9
+nI2
+<cd  /.?:
+;
+9
+nI2
+<d  0.?:
+;
+9
+n<  1.?:
+;
+9
+n <  2 <  39 :
+;
+9
+  49:
+;
+9
+  5.?:
+;
+9
+nI<  6
+
+ 
+:
+;9
+n  7 :
+;9
+I 
+  8 
+
+  9;   :B 
+
+I  ;. ?:
+;
+9
+I<  <   =&   >: :
+;
+9
+  ?
+
+:
+;9
+n  @I  A>
+
+
+I:
+;9
+  B.?:
+;
+9
+I @|                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+       j             M       ,T  `  l  v                                          
+    '  4  <  F  S  d  m  u                                             &   	      Y tKw '=  Lw 	   XM 
+ u$* , X    0E	 W
+ %guu$uu;u"t L> #
+ X$L1<6   	  Y	                           x         $                   A C
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    vswprintf exception_ptr operator= __integer_to_chars_is_unsigned __detail swprintf                                                                                                                                                                                                                                                                                                                                                                                                                                              C:/Users/dimac/CLionProjects/untitled/library.cpp C:\Users\dimac\CLionProjects\untitled\cmake-build-debug C:/Users/dimac/CLionProjects/untitled/cmake-build-debug C:/Users/dimac/CLionProjects/untitled F:/CLion 2024.3.1.1/bin/mingw/x86_64-w64-mingw32/include F:/CLion 2024.3.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++ F:/CLion 2024.3.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits F:/CLion 2024.3.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits F:/CLion 2024.3.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/debug library.cpp library.cpp corecrt.h locale.h wchar.h cwchar type_traits c++config.h exception_ptr.h concepts iterator_concepts.h compare charconv.h clocale debug.h numbers cstdlib cstdio cstddef memory_resource.h system_error cwctype std_abs.h swprintf.inl predefined_ops.h stddef.h stdio.h ptr_traits.h stdlib.h process.h wctype.h minwindef.h winnt.h windef.h stdlib.h accctrl.h winbase.h aclapi.h string.h securitybaseapi.h handleapi.h processthreadsapi.h winuser.h ranges_cmp.h                                                                                                                                                                                                                                                                                                                                                                                                                                                                              .file   *       gcrtdll.c              a               q              ~                                                   @                            P                                                                                  
+  p                           `                        6                           ]             o                                            0                    atexit  g      .text             -             .data                           .bss           (                           	                   .xdata         <                 .pdata         <                                              .file   ;       gcygming-crtbeg                                                 .text                         .data                           .bss    0                        .xdata  <                       .pdata  <                                                    .file   z       glibrary.cpp       main                                
+              >             q  	       .text                         .data                           .bss    0                        .rdata         
+                 .xdata  D                       .pdata  T                                 
+    6  '                           <                              0                                 4                           S                               3                                                            @                .text   `       .data          .bss    0       .idata$7$      .idata$5      .idata$4        .idata$6       .text   h       .data          .bss    0       .idata$7       .idata$5      .idata$4        .idata$6       .text   p       .data          .bss    0       .idata$7      .idata$5       .idata$4        .idata$6       .text   x       .data          .bss    0       .idata$7      .idata$5       .idata$4        .idata$6:      .file           gfake              hname           fthunk         .text                            .data                           .bss    0                        .idata$2                      .idata$4        .idata$5       .file           gfake              .text                            .data                           .bss    0                        .idata$4                        .idata$50                      .idata$74     
+                 .text           .data          .bss    0       .idata$7       .idata$5       .idata$4       .idata$6       .text           .data          .bss    0       .idata$7       .idata$5       .idata$4       .idata$6       .file           gfake              hname          fthunk         .text                            .data                           .bss    0                        .idata$2<                      .idata$4       .idata$5       .file           gfake              .text                            .data                           .bss    0                        .idata$4                       .idata$5                       .idata$7      
+                 .text           .data          .bss    0       .idata$7       .idata$5       .idata$4        .idata$6(      .text           .data          .bss    0       .idata$7       .idata$5       .idata$4        .idata$6      .text           .data          .bss    0       .idata$7       .idata$5       .idata$4x       .idata$6       .text           .data          .bss    0       .idata$7       .idata$5       .idata$4p       .idata$6       .text           .data          .bss    0       .idata$7       .idata$5       .idata$4h       .idata$6       .file           gfake              hname   h       fthunk         .text                            .data                           .bss    0                        .idata$2                       .idata$4h       .idata$5       .file           gfake              .text                            .data                           .bss    0                        .idata$4                        .idata$5                       .idata$7      
+                 .file         ggccmain.c                                        p.0                              %                           B  0       __main  w      .text              
+             .data                         .bss    0                       .xdata  P      $                 .pdata  `      $   	                                           .file         gnatstart.c        .text                           .data                           .bss    @                                                     .file   G      gtlssup.c          __xd_a  H   	    __xd_z  P   	        N                              ]                           t  C	             `	      .text                         .data   0                        .bss    P                       .tls        
+                    .tls$ZZZ   
+                    .CRT$XLA(   	                    .CRT$XLZ@   	                    .rdata         0                .CRT$XDAH   	                    .CRT$XDZP   	                    .xdata  t                        .pdata         $   	             .CRT$XLC0   	                   .CRT$XLD8   	                          @                      .file   Y      gcinitexe.c        .text    	                       .data   0                        .bss    `                        .CRT$XIA   	                    .CRT$XIZ    	                    .CRT$XCA    	                    .CRT$XCZ   	                           `                      .file   c      gmingw_helpers.    .text    	                       .data   0                        .bss    `                                                     .file          gpseudo-reloc.c            	                       the_secsp              x               
+                            
+                                       |                                     <                           m                       .text    	        0             .data   0                        .bss    p                       .rdata  `      [                .xdata         H                 .pdata         H                                              .file          gtlsthrd.c                                                             P                                                        Q      .text   P        $             .data   0                        .bss           8                 .xdata         0                 .pdata         0                                              .file          gtlsmcrt.c         .text   P                       .data   0                       .bss                                                           .file          g    3            .text   P                       .data   @                        .bss                                                          .file          gpesect.c              G  P                           Z             i  e          ~  +             {                           w                                 .text   P        	             .data   @                        .bss                             .xdata       l                 .pdata        l                                              .file          gCRT_fp10.c        _fpreset                        fpreset        .text         	                 .data   @                        .bss                             .xdata  x                      .pdata                               @                      .text        2                 .data   @                        .bss                             .text   P                       .data   @                        .bss                                    `                      .file          gdllentry.c              P                       .text   P                      .data   @                        .bss                             .xdata                         .pdata                                                      .file         gdllmain.c         DllMain p                       .text   p                      .data   @                        .bss                             .xdata                         .pdata                                                      .file         gacrt_iob_func.        #                          .text         ,                .data   @                      .bss                             .xdata                         .pdata                                                      .file          gonexit_table.c        3                              L            f  y      .text         E  	             .data   P                      .bss                             .xdata                          .pdata        $   	                                           .text         .data   p       .bss            .idata$7D      .idata$58      .idata$4       .idata$6      .text         .data   p       .bss            .idata$7H      .idata$5@      .idata$4      .idata$6      .text          .data   p       .bss            .idata$7L      .idata$5H      .idata$4      .idata$6*      .text   (      .data   p       .bss            .idata$7P      .idata$5P      .idata$4      .idata$66      .text   0      .data   p       .bss            .idata$7T      .idata$5X      .idata$4       .idata$6>      .text   8      .data   p       .bss            .idata$7X      .idata$5`      .idata$4(      .idata$6F      .text   @      .data   p       .bss            .idata$7\      .idata$5h      .idata$40      .idata$6P      .text   H      .data   p       .bss            .idata$7`      .idata$5p      .idata$48      .idata$6Z      .text   P      .data   p       .bss            .idata$7d      .idata$5x      .idata$4@      .idata$6d      .text   X      .data   p       .bss            .idata$7h      .idata$5       .idata$4H      .idata$6l      .text   `      .data   p       .bss            .idata$7l      .idata$5       .idata$4P      .idata$6v      .text   h      .data   p       .bss            .idata$7p      .idata$5       .idata$4X      .idata$6       .text   p      .data   p       .bss            .idata$7t      .idata$5       .idata$4`      .idata$6       .text   x      .data   p       .bss            .idata$7x      .idata$5       .idata$4h      .idata$6       .text          .data   p       .bss            .idata$7|      .idata$5       .idata$4p      .idata$6       .text          .data   p       .bss            .idata$7       .idata$5       .idata$4x      .idata$6       .file          gfake              hname          fthunk  8      .text                           .data   p                        .bss                             .idata$2(                      .idata$4       .idata$58      .file          gfake              .text                           .data   p                        .bss                             .idata$4                       .idata$5                       .idata$7      
+                 .text          .data   p       .bss            .idata$70      .idata$5(      .idata$4        .idata$6       .text          .data   p       .bss            .idata$7,      .idata$5       .idata$4        .idata$6       .text          .data   p       .bss            .idata$7(      .idata$5      .idata$4        .idata$6       .text          .data   p       .bss            .idata$7      .idata$5       .idata$4        .idata$6       .text          .data   p       .bss            .idata$7      .idata$5       .idata$4        .idata$6       .text          .data   p       .bss            .idata$7      .idata$5       .idata$4        .idata$6x      .text          .data   p       .bss            .idata$7      .idata$5       .idata$4        .idata$6`      .text          .data   p       .bss            .idata$7      .idata$5       .idata$4        .idata$6H      .file          gcygming-crtend        |                          .text                           .data   p                        .bss                                                                                                                                                                                __xc_z     	                         x             4                                       .   P          :   (           V          _lock   (          c   p           m       
+        |   P      __xl_a  (   	                                                         `                                                      (               B              ^  (   	        p         __xl_d  8   	    _tls_end   
+                                          	           @             (   	               
+    memcpy  8                        		         malloc  h      _CRT_MT 0           /	             ;	              I	             l	               	              	  T            	  X           	              	  \            	              	  H   	        
+         abort   P          *
+             T
+              n
+  H   	        ~
+              
+         __dll__               
+                
+              
+              
+              
+              
+              
+         calloc  X          8
+              B
+  h          O
+             [
+  `          h
+              
+              
+         Sleep   `            
+               
+  p            
+              
+              
+                       __xi_z      	    pcinit     	          $           0     	        @  @          ^             y  P              @                  	    strncmp                                                                         X       realloc p          
+               0
+             =
+             J
+              Z
+              m
+              
+             
+  x            
+              
+              
+         memset  @           
+              
+                           $              =         __xl_z  @   	    __end__              K             Y  P       __xi_a     	        x                      __xc_a      	                          H   	                                                                   `                    __xl_c  0   	        ,     
+        9  (          L  H          \  X           u  8                           H              <              h                                  fwrite  `                         @           &               >               O            \  H           r  0                                                          p                           `      strlen  x          
+                          0         _unlock H          R             b  p          q  H   	                   vfprintf       free    0             `          .debug_aranges .debug_info .debug_abbrev .debug_line .debug_frame .debug_str .debug_line_str __proc_attached atexit_table pre_c_init _CRT_INIT .rdata$.refptr.__native_startup_lock .rdata$.refptr.__native_startup_state .rdata$.refptr.__xi_z .rdata$.refptr.__xi_a .rdata$.refptr.__xc_z .rdata$.refptr.__xc_a .rdata$.refptr.__dyn_tls_init_callback DllMainCRTStartup .rdata$.refptr.__mingw_app_type __DllMainCRTStartup .rdata$.refptr.__native_dllmain_reason .CRT$XIAA .rdata$zzz __gcc_register_frame __gcc_deregister_frame _ZNSt8__detail30__integer_to_chars_is_unsignedIjEE _ZNSt8__detail30__integer_to_chars_is_unsignedImEE _ZNSt8__detail30__integer_to_chars_is_unsignedIyEE .debug_info .debug_abbrev .debug_aranges .debug_line .debug_str .debug_line_str .debug_frame __do_global_dtors __do_global_ctors .rdata$.refptr.__CTOR_LIST__ initialized __dyn_tls_init .rdata$.refptr._CRT_MT __tlregdtor __dyn_tls_dtor __report_error maxSections mark_section_writable restore_modified_sections __write_memory do_pseudo_reloc _pei386_runtime_relocator was_init.0 .rdata$.refptr.__image_base__ .rdata$.refptr.__RUNTIME_PSEUDO_RELOC_LIST_END__ .rdata$.refptr.__RUNTIME_PSEUDO_RELOC_LIST__ __mingwthr_cs __mingwthr_cs_init key_dtor_list ___w64_mingwthr_add_key_dtor ___w64_mingwthr_remove_key_dtor __mingwthr_run_key_dtors __mingw_TLScallback pseudo-reloc-list.c _ValidateImageBase _FindPESection _FindPESectionByName __mingw_GetSectionForAddress __mingw_GetSectionCount _FindPESectionExec _GetPEImageBase _IsNonwritableInCurrentImage __mingw_enum_import_library_names DllEntryPoint __acrt_iob_func _initialize_onexit_table _register_onexit_function _execute_onexit_table register_frame_ctor .text.startup .xdata.startup .pdata.startup .ctors.65535 ___RUNTIME_PSEUDO_RELOC_LIST__ __imp_abort __lib64_libkernel32_a_iname __data_start__ ___DTOR_LIST__ __imp__lock _head_lib64_libmsvcrt_def_a __imp_calloc LocalFree ___tls_start__ .refptr.__native_startup_state GetLastError __rt_psrelocs_start __imp_GetTokenInformation __dll_characteristics__ __size_of_stack_commit__ __mingw_module_is_dll __iob_func __size_of_stack_reserve__ __major_subsystem_version__ ___crt_xl_start__ __imp_DeleteCriticalSection .refptr.__CTOR_LIST__ VirtualQuery ___crt_xi_start__ __imp__amsg_exit ___crt_xi_end__ _tls_start __lib64_libadvapi32_a_iname .refptr.__RUNTIME_PSEUDO_RELOC_LIST__ TlsGetValue __bss_start__ ___RUNTIME_PSEUDO_RELOC_LIST_END__ __size_of_heap_commit__ __imp_GetLastError __mingw_initltsdrot_force __imp_free .refptr.__mingw_app_type __mingw_initltssuo_force VirtualProtect ___crt_xp_start__ __imp_LeaveCriticalSection .refptr.__RUNTIME_PSEUDO_RELOC_LIST_END__ _head_lib64_libadvapi32_a ___crt_xp_end__ __imp_CloseHandle __imp_SetEntriesInAclA __minor_os_version__ EnterCriticalSection .refptr.__xi_a .refptr._CRT_MT __section_alignment__ __native_dllmain_reason __lib64_libuser32_a_iname _tls_used __imp_memset __IAT_end__ __imp_memcpy __RUNTIME_PSEUDO_RELOC_LIST__ __lib64_libmsvcrt_def_a_iname __imp_FindWindowA GetTokenInformation __data_end__ __imp_fwrite __CTOR_LIST__ _head_lib64_libkernel32_a __bss_end__ __native_vcclrit_reason ___crt_xc_end__ .refptr.__native_startup_lock __imp_EnterCriticalSection _tls_index __native_startup_state ___crt_xc_start__ SetEntriesInAclA GetSecurityInfo ___CTOR_LIST__ .refptr.__dyn_tls_init_callback __imp__register_onexit_function __rt_psrelocs_size __imp_strlen __imp_malloc SetSecurityInfo __file_alignment__ __imp_InitializeCriticalSection __imp_OpenProcess CloseHandle __imp_OpenProcessToken __imp_realloc InitializeCriticalSection __imp_vfprintf __major_os_version__ __imp_GetSecurityInfo GetWindowThreadProcessId __IAT_start__ __DTOR_LIST__ __imp__initialize_onexit_table __imp_Sleep LeaveCriticalSection __size_of_heap_reserve__ ___crt_xt_start__ __subsystem__ FindWindowA _amsg_exit __imp_TlsGetValue __imp__execute_onexit_table __imp_VirtualProtect ___tls_end__ __imp_VirtualQuery __imp__initterm __mingw_initltsdyn_force __imp___iob_func __imp_GetWindowThreadProcessId __dyn_tls_init_callback _head_lib64_libuser32_a OpenProcess .refptr.__image_base__ _initterm __imp_strncmp __imp___acrt_iob_func __major_image_version__ __loader_flags__ ___chkstk_ms __native_startup_lock .refptr.__native_dllmain_reason __rt_psrelocs_end __minor_subsystem_version__ __minor_image_version__ __imp__unlock __imp_SetSecurityInfo .refptr.__xc_a .refptr.__xi_z DeleteCriticalSection __RUNTIME_PSEUDO_RELOC_LIST_END__ __imp_LocalFree .refptr.__xc_z ___crt_xt_end__ OpenProcessToken __mingw_app_type 
